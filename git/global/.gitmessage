@@ -1,0 +1,18 @@
+# <type>(scope): short summary
+#
+# Types:
+# feat     - New feature
+# fix      - Bug fix
+# chore    - Maintenance or tooling (e.g. config, formatting)
+# docs     - Documentation only
+# style    - Code style change (no logic)
+# refactor - Code refactoring (no behavior change)
+# perf     - Performance improvement
+# test     - Test-related changes
+# ci       - CI/CD config
+# build    - Build system or dependencies
+# revert   - Revert a commit
+#
+# Example:
+# feat(login): add remember-me checkbox
+# chore(git): add commit message template
